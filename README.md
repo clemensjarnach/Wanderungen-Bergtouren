@@ -4,6 +4,7 @@ Wanderungen & Bergtouren
 
 ![Berge](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
 
+## Wanderungen:
 
 ### Bei Unter-/ Oberammergau & Ettal
 
@@ -58,6 +59,22 @@ Wanderungen & Bergtouren
 - Lamsenspitze (2508m) <https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lamsenspitze/>
 - Torscharte & Torkopf (2014m) <https://www.bergtour-online.de/bergtouren/bergwanderungen/mittel/torkopf-karwendel/>
 - Fleischbank, Hölzelstalljoch & Grasbergjoch (2026m) <https://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/>
+
+
+
+## Klettersteig Touren:
+Hier ist eine Liste von Klettersteigen die ich gerne gehe, oder auch noch gehen möchte: 
+
+- Gelbe Wand Steig, am Tegelberg (A) <https://www.outdooractive.com/de/route/klettersteig/allgaeu/gelbe-wand-steig-tegelberg-a-/2808435/>
+
+
+
+
+## Klettern (Sport & Alpin):
+
+
+
+## Skitouren:
 
 
 
