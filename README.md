@@ -2,6 +2,8 @@ Wanderungen & Bergtouren
 ===============
 [erstellt am 11.06.2020; CJ]
 
+Klettersteige
+
 ![Berge](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
 
 
