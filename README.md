@@ -4,7 +4,6 @@ Wanderungen & Bergtouren
 
 ![Berge](https://a.travel-assets.com/findyours-php/viewfinder/images/res70/32000/32826-Garmisch-Partenkirchen.jpg)
 
-link <Klettersteig>
 
 ### Bei Unter-/ Oberammergau & Ettal
 
